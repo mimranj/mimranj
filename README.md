@@ -76,7 +76,7 @@
   </a>
 </div>
 
----
+<!-- ---
 &nbsp;&nbsp;&nbsp;
 ## ❤️ **Support**
 <p>
@@ -86,7 +86,7 @@
   <a href="https://ko-fi.com/usernamecofee">
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
   </a>
-</p>
+</p> -->
 
 ---
 &nbsp;&nbsp;&nbsp;
