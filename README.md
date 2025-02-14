@@ -17,7 +17,7 @@
 <h3 align="left">💻 A passionate Full-Stack Developer</h3>
 <p align="center">
   With expertise in React.js, Node.js, and modern JavaScript frameworks.  
-  This repository is a collection of my coding journey.
+  This repository is a collection of my coding journey. Here you will find free and easy to use template for React.js, React native(mobile apps), Next.js, Node.js, Nest.js, Express.js mongoDB, mySQL and postgres.
 </p>
 
 ---
